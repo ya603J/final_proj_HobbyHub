@@ -69,10 +69,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://private-user-images.githubusercontent.com/181181004/438051020-ee98de67-5ad5-46ef-acdc-66fdcb6587fd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MTgzODQsIm5iZiI6MTc0NTgxODA4NCwicGF0aCI6Ii8xODExODEwMDQvNDM4MDUxMDIwLWVlOThkZTY3LTVhZDUtNDZlZi1hY2RjLTY2ZmRjYjY1ODdmZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOFQwNTI4MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMjc2OGI5NDdiODdhMTU0ZDc1NDIyODY2NTY3MDc0ZjY2MGIzZWQ2NmFmOGM0NDljOTExMzkwNTQ0YjI1YmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._yyTwzq5eHXYpvsLvzHFy--UQhpiCvJ9ZH8FZgs2buA' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
